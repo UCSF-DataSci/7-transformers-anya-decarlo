@@ -44,11 +44,12 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-models/*.keras
-models/*.pt
-models/*.h5
-models/*.pth
-!models/.gitkeep
+# Commented out to allow required files for grading
+# models/*.keras
+# models/*.pt
+# models/*.h5
+# models/*.pth
+# !models/.gitkeep
 
 # Data files
 data/gout/*
@@ -58,14 +59,16 @@ data/processed/*
 !data/gout/.gitkeep
 !data/synthetic_mentions/.gitkeep
 
-results/part_1/*
-results/part_2/*
-results/part_3/*
-results/part_4/*
-!results/part_1/.gitkeep
-!results/part_2/.gitkeep
-!results/part_3/.gitkeep
-!results/part_4/.gitkeep
+# Commented out to allow required files for grading
+# results/
+# results/part_1/*
+# results/part_2/*
+# results/part_3/*
+# results/part_4/*
+# !results/part_1/.gitkeep
+# !results/part_2/.gitkeep
+# !results/part_3/.gitkeep
+# !results/part_4/.gitkeep
 
 logs/
 wandb/

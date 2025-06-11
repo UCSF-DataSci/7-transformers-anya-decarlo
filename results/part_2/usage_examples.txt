@@ -1,0 +1,18 @@
+# LLM Chat Tool Usage Examples
+
+## Usage
+
+```bash
+python utils/llm_chat.py
+```
+
+## Example Session
+
+You: What are the symptoms of gout?
+LLM: Gout symptoms include sudden severe pain, swelling, redness, and tenderness in joints, often the big toe.
+
+You: How is gout diagnosed?
+LLM: Gout is diagnosed through physical examination, medical history, blood tests for uric acid levels, and joint fluid analysis to look for urate crystals.
+
+You: exit
+Goodbye! 
