@@ -73,3 +73,7 @@ wandb/
 # Keep empty directories
 !.gitkeep
 07/
+
+# Environment variables
+.env
+.env.*

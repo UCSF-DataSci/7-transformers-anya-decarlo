@@ -1,0 +1,301 @@
+Chief Complaint	Predict	Consensus
+"""been feeling bad"" last 2 weeks & switched BP medications last week & worried about BP PMHx: CHF, HTN, gout, 3 strokes, DM"	N	-
+"""can't walk"", reports onset at <<TIME>>. oriented x2. aortic valve replacement in <<DATE>>. wife reports episode of similar last week, hospitalized at <<HOSPITAL>> for UTI, gout - pmhx: CVA (L side residual deficits)"	Y	N
+"""dehydration"" Chest hurts, hips hurt, cramps PMH- Hip replacement, gout, missed pain clinic appt today, thinks he has a gout flair up knee and foot pain"	Y	Y
+"""gout flare up"" L arm swelling x 1 week. denies any other pmh"	Y	Y
+"""heart racing,""dyspnea, and orthopnea that has been getting worse over the last 3 days: HR 122. pmh: a-fib, HTN, PTE, gout, Elaquis"	N	-
+"""I started breathing hard""  hx- htn, gout, anxiety,"	N	N
+"""I think I have a gout flare up"" L wrist pain & swelling since <<TIME>>. Hx: afib, gout, HTN"	Y	Y
+"""I want to see if I have an infection"" pt vague about symptoms, and having gout flare up, big toe swollen, feet hurt pmhx: gout, htn"	Y	N
+"""My gout done flared up on me"", c/o R ankle, L shoulder, and chronic lower back pain. pmh- gout"	Y	Y
+"""my gout is hurting me""- reports bilateral foot pain x 2 weeks; pmh HTN, DM, gout, prostate cancer on chemo pills"	Y	Y
+"""Out of my mental health pills and I'm having anxiety and thoughts of hurting myself"" States he wants to get run over by a train PMH gout, bipolar, schizophrenia"	N	-
+"""umbearable"" right foot/ankle pain pmh gout"	Y	Y
+"(<<HOSPITAL>>) transfer for renal transplant. pt SOB x 1 day. possibly rejecting kidney. kidney tx in <<DATE>>. hx:DM, gout, HTN, renal failure, seizure"	N	N
+"(<<HOSPITAL>>) reports feeling nervous about having skipped his DM medications and eating too much candy, hx: gout, DM"	N	-
+"(<<ORGANIZATION>>) dizziness and SOB. recent HTN med change from losartan to amlodipine. pmh HTN, RA, gout"	N	N
+"(<<ORGANIZATION>>) intermittent cp since this am, worse during funeral. 162 aspirin and 1 nitro en route resolving pain. SI "" that is everyday but I just push it out of my mind"" pmh gsw R chest, CHF, HTN, gout L elbow, PTSD"	N	N
+"(<<ORGANIZATION>>) right sided abdominal pain pmh: gout, DM, stroke-left sided weakness, COPD, gallstones"	N	-
+"(<<HOSPITAL>> tx) neck pain and right arm pain following syncopal episode. abrasion to right forehead, left knee. C-collar present on arrival. A&Ox1 PMH: HTN, GERD, gout, ASA daily"	N	N
+"(Stat call) epigastric pain and hypotension since this morning. PMH: ESRD (dialysis M,W,F) CHF, gout, HTN"	N	N
+"abd pain, NV x 1 year, worse over last 7 months. has lost 100lbs in last year. pmh: hernia repair <<DATE>>, gout, migraines"	N	N
+"abdominal pain, constipation x 3-4 days. Had BM today, sudden onset sharp pain to abdomen and groin one hour ago. pMH CHF, HTN, gout, high cholesterol, arthritis"	N	-
+"Aching in chest, sides, shoulders, pain with inspiration x 2 days. Pain in chest radiates into back.  PMH gout, arthritis, HTN,"	N	N
+"Altercation at work, had eyes gouged with fingers, bleeding with abrasions, left shoulder out of place. PMH RA, HTN, gout, DM"	N	-
+"AMS, lethargy, increasing generalized weakness over 2 weeks.  Hx:  ESRD on hemodialysis at home, HTN, DM, gout, neuropathy"	N	N
+"Around <<TIME>> woke up with a headache on the right side, steady ache from back to front per pt has never had a headache like this pmhx; htn, gout, bursitis"	N	-
+"arrives in custody with lac to L hand and avulsion to back of scalp from breaking/throwing a tv. bleeding controlled. unsure if tetanus is UTD, but recently had stitches. tearful througout triage"	N	-
+"At work <<DATE>> pt began to have SOB at rest and when attempting to sleep.  Had to sleep sitting upright. C/o of ""slight chest pain"". Pt has hx of htn, gout. Out of BP meds 2 mths d/t no PCP at present."	N	-
+"bil. knee pain for ""a while"". fell earlier today d/t the pain. Admits to hitting head, denies LOC. Also c/o L wrist pain. hx: gout. per pt, she was seen here for same recently."	Y	N
+"bilat foot poain, r hand pain r/t gout per patient. states ran out of his meds yesterday"	Y	N
+"Bilateral ankle and foot pain x 2 weeks. C/o chills, coughing x 2 weeks. Seen PCP, dx with athletes foot to left foot. PMH gout, HTN"	U	Y
+"bilateral feet swelling and pain. ambulatory, off gout meds x1 year hx; gout, arthritis"	Y	-
+"bilateral knee swelling Left sided chest pain, jaw pain,  BLE swelling, SOB, coughing more often, and weakness, that has gotten worse over the past day  pt is wearing life vest pmhx: chf, dm, htn gout"	Y	N
+"bilateral leg and feet pain. weeping fluid. has CHF. increased leg pain PMH: CHF, gout"	Y	N
+"bilateral leg swelling x2 days pmhx: gout, HTN, DM"	U	N
+"Body aches dizziness and headache x 1 week. Productive cough. Diagnosed with pneumonia 4 weeks ago. PMH: HTN, gout, cellulitis lower back."	N	-
+"Brought in <<ORGANIZATION>> for complaints of pain in the R groin that has been worsening over the past week following an adrenal bleed. MI last week, clot in L leg, IVC filter placement last week. PMH: gout, L2 sacral fusion"	N	-
+"Burn to chest, face, and arms from boiling water. PMH: HTN, gout."	N	N
+"burn to left forearm, HX htn, gout, hyperlipidemia"	N	-
+"C/o aphasia x 2 days. Seen at PCP yesterday and had work-up. CT findings compatible with acute to subacute ischemia within the left frontal lobe. PMH: depression, GERD, gout, HTN, MVP"	N	N
+"C/O bilateral groin pain worseing x2d w/difficulty urinating and fever/chills. Also R low back pain, abd cramping. Pt denies dysuria, n/v/d.  PMHX gout"	N	N
+"c/o chest pain radiating to left shoulder and back pmh DM, gout"	N	-
+"C/o CP with dyspnea since yesterday. PMH: gout, HTN, HLD, DM, asthma, DVT, a-fib"	N	N
+"C/o CP with dyspnea x 2 days. PMH: back pain, gout, HTN"	N	N
+"C/o depression and anxiety with SI. Admitted to C6 and d/c <<DATE>>. States started feeling bad yesterday. Plan to drown himself. States his medications were changed this past week. PMH: depression, anxiety, gout"	N	-
+"c/o fatigue x2 days and wanting to get assessed because her portable heart monitor reported arrythmias. denies CP, mild SOB intermittently. pmh- thyroidectomy <<DATE>>, partial parathyroidectomy, gout, stage 3 kidney disease."	N	-
+"c/o fevers, HA, PMHx: gout, HTN"	N	N
+"c/o HA & elevated BP since this morning PMHx: DM, HTN, arthritis, gout"	N	N
+"c/o L sided neck pain rad down L arm x1 month. denies CP. denies injury. recieved nerve block one week ago w/out relief. PMH: HTN, gout, depression, DMii"	N	N
+"C/o left foot and knee pain since <<DATE>> ""I think it's gout"" PMH gout, AICD, Hep C"	Y	Y
+C/o left upper and lower toothache x 2 days. PMH: gout	N	-
+"C/O LLE swelling/stiff x2d and radiating into L abd/LUE, also RLE pain xweeks and currently on IV abx through PICC RUE. States nausea this am, denies fevers/vomiting/diarrhea PMHX htn, gout"	Y	-
+"c/o lower mid abd pain that radiates to his back x 1 week. Improvement with tylenol & ibuprofen. Hx: HTN, stents, CAD, gout, renal insuff, stroke, bladder cancer years ago,  multiple surgeries"	N	N
+"C/o mid abdominal pain x 5 hrs. PMH: depression, arthritis, gout, back pain, gastric bypass"	N	-
+"c/o R big toe hurting from gout and headaches x3 weeks pmh gout, HTN, acid reflux"	Y	Y
+"c/o SOB, Aching and congestion since <<TIME>>. PMH of HF, HTN, asthma, gout."	N	N
+"C/O sudden onset nontraumatic R knee pain and burning started last night, states feels similar to his gout flares in his foot, on allopurinol. Patient denies fevers, CP, SOB, abd pain or nausea. Pt is ambulatory PMHX CKD, gout, htn"	Y	Y
+"C/o vaginal and buttock pressure with N/V/D x 2 days that is progressively getting worse. PMH: HTN, arthritis, gout, fibroid tumors"	N	-
+"call to EMS for heart palpitations, possible STEMI on EMS EKG; upon arrival pt complaining of heart racing pmh chf, htn, gout, hernia"	N	N
+"Called back to ED for positive blood cultures x2. Here <<DATE>> for swelling to right leg, ""turning colors"" PMH gout, HTN"	Y	N
+"cannot bend R knee after twisting 2 days ago. no pain initially but has progressively gotten stiff and tender on knee cap. PMH: gout, CHF"	U	U
+"chest and abd pain, recently dx w/ flu, given antibiotics/steroids. denies cough. pmh kidney tx (<<DATE>>), gout, htn, dm."	N	N
+"chest and back pain that has been going on for weeks. Also c/o H/A for past few hours. pmh gout, HTN, seizures"	N	N
+"Chest pain and legs burning and joint pain x 1 week. PMH HTN, high cholesterol, BPH, gout"	Y	-
+"chest pain radiating to R side x2 1/2 hrs, diaphoresis, SOB, nausea, vomiting x2; pmhx gout"	N	N
+"chest pain x 9 hours- sharp right sided pain PMH: CHF, open heart surgery, pacemaker, DM, knee replacement, HTN, gout"	N	-
+"chest pain, gout pain in hands and ankles, ""high bp"", hx: gout, HTN"	Y	Y
+"Chest tightness with SOB, weakness x1 week;  Pmhx fibromyalgia, copd, dm, HTN, gout, arthritis"	N	-
+"Chronic neck, shoulder and back pain self placed c-collar. pt seen last week for the same pmh htn, arthritis, gout"	N	-
+"Complaints of sharp chest pain 9/10 with dizziness. PMH gout, HF, DM, stroke"	N	-
+"Complaints of shortness of breath and swelling to left hand and BIL ankles; PMH CHF, gout, DM"	Y	-
+"Constipation x3 weeks. Taking laxatives with watery diarrhea, last BM this morning. PMH: HTN, gout"	N	-
+"CP left chest and sternum x1 week, dull pressure with no alleviating interventions, started while covering plants with tarps, no relief since, MI <<DATE>> w/ 3 stents, HTN, HLD, gout"	N	-
+"CP SOB and sore throat x1 hr pmh COPD, gout, htn, arthritis"	N	N
+"CP w/ shortness of breath started @ <<TIME>> today. PMHx: OSA, GERD, dyslipidemia, HTN, asthma, nephrolithiasis, DM, anemia, gout, obesity, angina"	N	-
+"CP x 3 days, body and abd swelling, fatigue x one week, pmh asthma, HLD, gout, CHF, neuropathy, CKD, low mag, coronary stents, one kidney"	N	N
+"CP x one day, pmh CAD, COPD, gout, CHF, cocaine abuse, AICD"	N	N
+"difficulty swallowing. pt states ""it feels like food isnt going down"" cough x3 weeks. pmh: DM, HTN, gout"	N	-
+"dizziness x 3 weeks, epigastric pain x 1 wk pmh htn, spina bifida, gout, brain aneurysm"	N	-
+Doc N Box DX pt w/ R hip FX on <<DATE>>. Pt states no falls or injuries. PMH: gout	U	N
+"dog scratch to left thumb PMH VP shunt, brain sx, poly kidney disease, lumpectomy L side HTN gout arthirtis HLD thryoid dx AFIB, xaerlto, CHF, COPD"	U	U
+"dysphonia x 2 weeks, found spot on lungs 2 weeks ago by PCP, weight loss, pmh gout"	N	N
+"Edema to bilateral lower legs since yesterday, chest pain since <<TIME>>. Had cardiac surgery 2 weeks ago w/ablation. PMH CHF, HTN, afib, COPD, OA, gout, anxiety, depression"	U	N
+"elevated bp and elevated glucose, pmh CAD, gouth, HTN, DM"	N	-
+"endorses flank pain and N. Sent to ER for BS of 600, PMH, AKI, UTI, CHF, gout, ESBL, pulm htn, DBT, fibromyalgia, kidney failure"	N	N
+Eufaula tx for renal pt. <<DATE>> renal tx with new onset of anuria. HR 130s. 4morphine with EMS <<TIME>> PMHx gout/ RF/ lupus	N	-
+"Fall 6 x in 24 hours due to lower extremity weakness. denies hitting head. PMH: colon cancer metastisized to liver, brain, DM, gout, defibrillator, MI <<DATE>>, CHF, 2LNC at baseline"	U	U
+"Fell 2 days ago, reporting L ankle and R side pain, PMH: Leukemia, gout (per ems leukemia, per pt renal ca no treatment)"	U	N
+"fell one week ago, in with c/o scrapes to left leg and lethargy. PMH:DM,CVA w/ residual L side weakness, gout"	N	-
+"fever 2 days ago, diarrhea, nasuea, recent radiation treatment for squamous cell carcinoma, chemo every <<DATE>>     PMH: Squamous cell carcinoma, shrapnel in head, gout, HTN,"	N	N
+"fever/chills since <<DATE>>, seen at pcp started abx, elevated Cr 2.4, told by kidney docs to come to ED, SOB w/ exertion PMH: kidney transplant x 2 (<<DATE>>), gout, arthritis, HTN"	N	-
+"from <<HOSPITAL>> - chronic neck pain that radiates down the spine - PMH:chronic back pain w/ prior laminectomy and diskectomy of L3-L5, <<DATE>> CSF leak repair, bowel perf with ostomy, DVT, parkinsons, gout"	N	-
+"from <<HOSPITAL>> - pt reports SI - per report from <<HOSPITAL>>: pt maniipulative and agressive today. PMH cerbral palsy, bipolar disorder,gout, anixety, depression, CAD s/p 4 stents in <<DATE>>"	N	N
+"FROM <<HOSPITAL>>. Dizziness since yesterday, HR noted to be 36 at MD office. Unabel to obtain BP at sign-in, taken directly to a room.  Hx. HTN, gout, hyst. Pt.denies pain"	N	N
+"fullness in the chest x one day, pmh HTN, gout"	N	N
+"got kicked out of shelter last night, states he cannot walk, left knee gout flare up PMH unknown"	Y	-
+"gout flare in left foot, right 5th finger, and left shoulder    PMH: gout"	Y	-
+"gout flare up - out of meds pmhx: DM, gout"	Y	-
+"gout flare up that started yesterday in left wrist,pain 10/10 Hx of gout, chronic back pain, depression"	Y	Y
+"gout flare up to both feet, unable to ambulate. states ran out of colchicine 3 days ago PMH: gout, HTN, DMii"	Y	Y
+"gout flare-up to R ankle x 4 days. ""I have gout medicine but my bookbag got taken 4 days ago"""	Y	Y
+"Gout flareup to L hipx2 days, does not take medication for gout, pmhx: gout"	Y	Y
+"great right toe pain x2 days and right heel pain x 5 years PMH: gout, HTN, DM"	Y	Y
+"Had IVC filter pulled out <<DATE>> and site won't stop bleeding. C/o SOB and swelling to abdomen. PMH cirrhosis, chronic pancreatitis, DM, neuropathy, gout"	N	U
+"headache/dizziness/confusion since last week. shelf fell on pt head, seen and had CT showing small contusion. pmh cardiac stent p MI, htn, gout. denies taking blood thinners"	N	-
+"hematuria and dark tarry stools x 2 weeks PMH: HTN, gout,"	N	-
+"Hemorrhoid pain that is worse when sitting. Seen last night for same. pmh Dm Htn gout, arthritis"	N	-
+Increase pain and redness @ left great toe and surrounding foot. Hx. gout.  recent hospitalization for blood clot in foot and gout. Uses walker. PALE COMPLEXION	Y	Y
+"Increased swelling to bilateral feet x 2 weeks, left hip pain x 2 weeks, period has lasted 3 weeks but is postmenopausal . PMH HTN, gout, arthritis"	Y	N
+"inspire implant surgery on <<DATE>> for sleep apnea, states that he has noticed increased swelling today, unable to swallow, mild pain, nasal drainage pmhx: sleep apnea, HTN, hypothyroidism, gout"	N	-
+"intermittant SOB x 2wks, denies CP, 97% RA, bilat +3 pitting edema PMH: CHF, pacemaker, CAGB, valve replacement, HTN, gout"	N	N
+"Intermittent cx painx2 days, denies SOB/N/V, pmhx: gout, anxiety, HTN, DM, hyperlipidemia"	N	-
+"intermittent fever/chills, diarrhea, symptoms x one week, pmh HTN, COPD, gout, Hep-C"	N	-
+"joint pain  x 3 months, pmh HTN, gout, bone CA (not on chemo)"	Y	Y
+"Knee pain and swelling, difficulity walking, been in and out of hospital over the past 3-4 weeks for the same, weakness pmhx: gout, arthritis,"	Y	-
+"L ankle pain since last PM. Denies trauma. hx: possible gout, cardiac"	Y	Y
+"L arm/shoulder pain x4days, ""i can't use it or sleep"". denies trauma. pmh gout, htn, dm."	Y	Y
+"L big toe pain x4wks. recently tx for gout flare. put capsacin patch which made it burn. pmh DM2, gout."	Y	Y
+"L facial swelling and pain since <<DATE>>; pmh HTN, CVA c L weakness, CHF, gout, chronic joint pain"	N	-
+"L foot gout flare-up since <<DATE>>, doesnt take meds for gout -  PMH: gout"	Y	Y
+"L foot pain x 1 week. pmhx: DM, gout"	Y	Y
+"L foot, R hand pain. Pain x1 day. pt. feels the pain is related to his known diagnosis of gout. Takes Allopurinol. hx: gout, HTN"	Y	Y
+"L hip and L knee pain x2 days, denies trauma, swelling noted to L knee. PMHx: gout, breast cx, HTN"	Y	Y
+"L thumb open wound, draining serosangunous fluid, sent for hand specialist. other chronic wounds to L FA, and L knee from surgery in <<DATE>>. pmh diabetic, gout."	U	U
+"L wrist pain/swelling x2 days, denies trauma. hx: gout"	Y	Y
+"lateral R foot pain x 3 weeks; denies injury; PMH: gout, DM, HTN"	Y	Y
+"LE swelling and SOB, symptoms x 2 days, pmh CHF, DM, gout,"	U	Y
+"Left calf, thigh, hip pain x3 days. Denies injury. Pmhx gout"	Y	-
+"Left elbow pain and swelling x several days PMH: gout, afib, spasms, HTN, HLD"	Y	-
+left foot pain x2 months. PCP told him it was gout. pt ambulates w/o difficulty	Y	Y
+"left hand pain from gout since last night, pmh DM, CHF"	Y	Y
+"Left shoulder px since yesterday, pmhx: HTN, Breast cx, gout"	Y	Y
+"Left sided chest pain started 2 days ago while working on house, numbness to right jaw started this am. PMH kidney stones, gout, HTN, high cholesterol"	N	-
+"Left sided weakness, slurred speech, ""trouble walking"" x2 hrs PTA. PMHxuterine leiomyoma, Bell's palsy, HTN, CKD, gout and pseudotumor cerebri."	N	N
+"Leg cramps for ""a while.""  Pt states he's tired of them and tired of taking pills for it.  Hx:  HTN, HLD, CHF, prev. CVA w/ hemiplegia on left, anemia, gout, depression"	N	-
+"Leur lock fell off the end of port-a-cath causing blood to come from tubing. PMH: asthma, gout, HTN, gastric CA, FOLFOX chemo infusion"	N	-
+"lip swelling, throat feels swollen since yesterday AM. pmh: htn, gout, asthma, cholesterol"	N	N
+"LLE pain pmhx:arthritis, gout"	Y	Y
+"low energy, sick feeling, HA, extreme fatigue, symptoms x one month, pmh HTN, CABG, CAD, coronary stents, gout"	N	-
+"lower abd constant buring pain since <<DATE>>, c/o N/V - recently dx with possible lymphoma - PMH:HTN, CKD, Hep C, gout"	N	-
+"lower abdominal pain for months, weight loss, chest pain (left)  n/v, last thew up this morning (states mucus/bile; denies blood) PMH: HTN, DM, asthma, bronchitis, gout"	N	-
+"lower back pain since this morning. Hx of gout, scoliosis"	U	N
+"Lower back pain x 4 days. states she is still able to ambulate. denies injury. pmh:  ESRD, HTN, gout, Renal tx <<DATE>>"	N	N
+"lower left leg pain x 3 days. ultrasound showed small clot. currently on blood thinners PMH: HTN, gout, CHF"	Y	N
+"Lt elbow pain for 3 weeks, pt was told to come to ED for fluid on elbow. PMH HTN, DM, gout"	U	Y
+"LVAD pt who present with low flow alarm. Per caregiver alarm has been going off all day and pt was seen in clinic this am. pt having N/V and weakness for the past few days. LVAD placed <<DATE>>. PMH CHF, Cervical cancer, htn, gout and defibulator"	N	-
+"mechanical fall yesterday, seen at <<HOSPITAL>> and DC'd, <<HOSPITAL>> called this AM reporting a ""brain bleed"". contusion to L forehead. pt has impaired memory at baseline, no new neuro sympoms per family. PMH: HTN, BPH, gout"	N	-
+"middle finger right hand infected, pmh HTN, DM, HLD, gout"	U	N
+"midline low abd pain x one week, pmh kidney transplant <<DATE>>, ESRD, Hep-C, cirrhosis, HTN, a-fib, obesity, HLD, a-flutter, gout, OA"	N	N
+"Midsternal chest tightness and discomfort with shortness of breath. RA sat 89%. HX: CHF, HTN, CAD, AFIB, gout, MI, stents"	N	N
+"mult complaints- lower abd pain x months, but c/o 3 episodes of epigastric pain and SOB-decreased appetite.  pmh defibrillator, DM, CHF, HTN, gout"	N	-
+"N/D, joints aching since yesterday evening, pt reports Crohn's flare up (last one a month ago) - PMH: arthritis, gout, HTN, asthma, crohn's"	U	N
+"N/V x1 day, chills, fell twice out of bed today. Denies abd pain, pt given 4mg zofran IM pta. Also c/o knee pain from gout. pmhx: gout, DM, CHF"	Y	Y
+"N/V/D, generalized weakness. Hx HTN, DM, gout, ESRD on dialysis TTS, did not go to dialysis today."	N	N
+"nausea and diarrhea x 3 days, pmh CHF, CAD, AICD, CKD, HTN, HLD, gout"	N	N
+"near syncopal epiosde/ fall from standing. dstick 66 on scene, glucose given. pmh HIV, HTN, gout"	U	Y
+"numbness in bilateral hands x 1 months. gotten worse. now generalized body numbness. denies blurry vision. pt states her balance is off-but no falls. pt states she can't dress self. pmh HTN, borderline DM, CHF, hypothyroidism, gout, GERD"	N	N
+"NV since <<TIME>> yesterday.  Lower abdomen and back pain. Pt. states she had fever of 102 during night, 99.1 now. bodyaches.  Hx, HTN, gout.  Moaning and grunting in triage."	U	N
+"Ortho tx from <<HOSPITAL>> for L distal malleolus, L distal femur fx secondary to falling out of bed this AM. PMH: gout, HLD, htn, B knee replacements"	N	-
+out of gout medicine	Y	Y
+"Pain in bilateral groin areas X 3 days pmh: DM, gout"	N	N
+pain to L greater toe since last night; PMH: gout	Y	Y
+"pain x1 week, worsening this AM in chest, L shoulder, bilat legs. pmx: gout, skin graft, gsw <<DATE>>, hep c"	Y	Y
+"painful pressure when urinating, blood clots in urine since yesterday PMH heart valves, defibrilator, htn, gout, MI"	N	-
+"painful urination and blood with clots from urine. Pt was seen at <<HOSPITAL>> last <<DATE>> and was told to come here. pmh HTN gout Ruptured cervial disc, DVT and PE(IVC filter)  pleural effusion in <<DATE>>."	U	N
+"Patient c/o left wrist pain since yesterday. Denies injury. PMH: gout, CHF, HTN"	Y	Y
+"Per EMS suspected aspiration at nursing home, nurse stated increased gurgling sounds and SOB from pt, no aspiration ever witnessed from anyone, PMH: afib, HTN,sepsis, PVD with multiple bed sores, glaucoma, gout, osteoarthritis"	N	-
+"Poss seizure today, pt reports numbeness and tingling all over x1wk medics report tremors during transport pmh seizures, copd, stroke, htn, dm, gout"	N	N
+"presyncopal, lightheaded, symptoms x one week, pmh gout"	N	N
+"productive cough x 3 days, pmh HTN, gout"	N	N
+"pt c/o  L big toe pain, worried about gout pmhx: denies"	Y	-
+"Pt c/o ""aggressive vertigo"" x1 mo, has had relief on meclizine, but exacerbated again this AM causing him to fall off of toilet. Denies head injury, -LOC. Fell on to L arm but denies pain. PMH: asthma, DM, gout, vertigo"	U	N
+"pt c/o ""blisters"" to bilateral heels xs 3 days with ankle edema. pmh gout. ambulates independently"	N	-
+"pt c/o ""gout pain"", N/V, fever. recent ICU admit. pmhx: gout, PD, CKD, DM"	Y	N
+"pt c/o cough x2 weeks, OTC meds not helping. Sent from <<HOSPITAL>>.PMH: HTN, DM, gout also c/o kidney problems?"	U	Y
+"Pt c/o cp that started last night that is achey and pressured in nature with a non productive cough. also c/o abd pain. PMHx: DM, CHF, CKD, HTN, gout"	N	N
+"pt c/o dizziness, denies CP, SOB, or pain. recent admit. pmh asthma, HTN, gout, heart murmur"	N	N
+"Pt c/o dull, crushing CP starting @<<TIME>>. EMS gave 3 nitro & 324 ASA with not much relief. PMH: CABG, CVA, TIA, stents,DM, HTN, gout, HLD, MVP"	N	-
+"pt c/o entire right arm pain from fall one month ago, pmh HTN, DM, HLD, gout, on Xeralto for PTE"	U	N
+"Pt c/o epigastric pain & cx pain, pmhx: CHF (on heart trx list), gout, HTN"	N	U
+"pt c/o fevers at home, temp 100.9 in triage, sent by oncologist. pmhx: leukemia (on chemo), gout"	N	U
+"pt c/o intermittent fluttering in chest, left thigh numbness, right arm/shoulder pain for ""months"" pmh HTN, gout. no CP or SOB throughout triage"	N	-
+"pt c/o L arm pain/tingling x1 month. pt states ""my heart beats real fast sometimes."" PMH:x2 cardiac stents, arthritis, gout"	U	N
+"pt c/o L foot pain & swelling x3 days, denies injury. sts ""I think I have gout."""	Y	-
+"pt c/o L knee pain, pt states she is having a gout flare up x2 weeks. pmh: gout, seizures"	Y	Y
+"Pt c/o left leg pain that raidiates down leg. unable to ambulate due to pain. PMHx: ""heart valve"", HTN, gout, bulding disk"	N	N
+"pt c/o leg pn, unable to ambulate x4 weeks, denies injury. new bed sore on sacrum. pmhx HTN, gout, anxiety"	Y	Y
+"pt c/o of ""high BP, gout acting up, dark, bloody stool x a few days"" pt states he has not been taking his BP meds. pmhx: HTN, gout"	Y	Y
+"pt c/o of pain and drainge to rt foot and new wound to left foot, open wound noted to rt foot with redness and edema, c/o syncopal episodes, loss of appetite phmx: gout, HTN, neuropathy, sepsis, COPD"	N	-
+"pt c/o R knee pain/swelling, R foot pain, R middle finger swelling x1 week. denies injury. seen at <<HOSPITAL>> earlier this week. pmhx: HTN, gout"	Y	Y
+"pt c/o R sided jaw swelling since <<DATE>>, went to urgent care given prednisone and acyclovir. started having fever/chills last night PMH:HTN,DM2, diverticulitis, gout"	N	N
+"pt c/o rt shoulder pain x 2 days, pmh gout, htn, DM"	Y	Y
+"pt c/o sob x 2 weeks adn ankle pain from gout, pt placed on 2LNC of o2 sats up to 92%"	Y	-
+"pt c/o SOB, denies CP. increased work of breathing when exerting self. pmhx: gout, DVT"	N	N
+"pt coming from nursing facility for fever noticed <<TIME>> & tylenol given @ <<TIME>>; on 2L NC at home PMHx: dementia, CKD, HTN, DM2, tachycardia, gout"	N	-
+"Pt complaing of bilateral foot swelling, and pain x 2 months pmh:gout"	Y	Y
+pt complaining of gout pain in left foot x1 day. pt states he ran out of meds	Y	Y
+"Pt endorses SI, sent by MD for worsening SI, per MD pt needs inpatient treatment. PMH CPAP, depression, gout,"	N	N
+"pt from <<HOSPITAL>> for SI. pt states ""I just want to kill myself"", pt states he does have a plan. PMHx: RA, gout, HTN, bil AKA"	N	-
+"pt from <<HOSPITAL>>, sent here for blood clot found in leg during US today, recent mvc with femur fx pmh: gout, surgeries, lithotripsy"	N	-
+"pt has mult complaints - gout pain is primary complaint,  PMH- cirrhosis, hep C, DM, HTN,"	Y	Y
+"pt has multiple complaints. SOB, vision changes, pain all over, knot in back and wheezing. pmh COPD, gout arthritis"	U	N
+"pt is <<PROFESSION>> had a mechanical fall within the hospital, she denies any LOC, denies pain, has small laceration to her chin, reports she has had BP readings that were low - stopped one of her BP meds, med hx HTN, gout, baby ASA/day"	N	-
+"pt presents in triage with HR in 40's. PMH: pancreatic cancer, afib, HTN, DM, gout"	N	-
+"Pt reports 30min onset of intermittent chest pain while at home. Pt also endorses full body pain with PMH of DM, HTN, arthritis, gout"	N	N
+"Pt reports bil leg numbness since <<TIME>> yesterday. Sts the numbness goes as high as his waist at times & normally resolves but it has not this time. Sent by Ortho MD. unable to get MRI today d/t not being able to walk. hx: trauma on <<DATE>>, htn, gout, DM"	N	N
+"pt reports chest pain starting an hour ago- nitro given en route(pt on aspirin and BP meds) PMH: triple bypass, MI three years ago, HTN, gout"	N	N
+"PT reports dizziness, chest pain and SOB after taking new medcation for gout at <<TIME>> today. Pt denies N/V or diaphoresis. PMH: CHF, HTN, HIV, Gout."	Y	Y
+pt reports gout and pain in BLE for a little while. requesting pain meds. pmh: htn	Y	-
+"Pt reports HA, dizziness, and blurry vision, vertigo since accident to R eye one year ago, pt was struck by bulldozer to R eye, told to come here by <<HOSPITAL>>, PMH: gout, L foot drop foot, spinal fusion"	N	N
+"Pt reports having seizure last night. c/o intermittent ab pain x 2 days. PMH: seizures (here two weeks ago), gout"	N	N
+pt reports lower back pain that radiates down to left foot. patient denies any cp or sob at this time. patient denies any recent falls. patient uses wheelchair. PMH HTN gout	N	-
+"pt reports not taking medications (diltiazem, metoprolol) last PM b/c of scheduled surgery for L graft removal. sent from clinic for high heart rate, asymptomatic PMH: kidney transplant, HTN, afib, gout"	N	-
+Pt reports pain in right elbow since yesterday. States pain same as his gout pain he gets in his foot. Denies injury	Y	Y
+"Pt reports worsening CP for two days. Relieved with nsaids. Pmh htn, hld, gout"	N	N
+"Pt started on prednisone today for gout. States 20 min after c/o dyspnea, palpitations, and cold sweats. PMH: HTN, gout"	Y	Y
+"pt states after her stress test they were unable to get her heart rate to go down. pt states the medication they gave her caused her crohns to flare. pmh: HTN, chrones, gout, asthma, GERD"	N	-
+"pt states has been lightheaded when ambulating and states ""my blood pressure has been low"" denies SOB pmh gout, DM, HTN, neuropathy"	N	N
+"pt states he has a URI. Cough, cold and runny nose hx: gout"	N	N
+"pt states left knee started randomly hurting this morning. pain on back side of left knee.  denies any injury/falls/heavy lifting. pt denies pmh: gout, HTN"	Y	-
+"Pt states she fell while walking and hit the back of her head. bleeding controlled. pt denies LOC. per ems pt ambulatory on scene. pt denies taking blood thinners.   PMH: gout, arthritis"	N	N
+"Pt states she woke up from sleep with lower lip and left sided jaw swelling and jaw pain.  Denies CP, SOB, difficulty swallowing, itching, or rash.  Hx:  HTN, gout, chronic back pain, A-fib"	N	-
+"Pt stating he got into a fight 3 hrs ago and is complaing of right sided head pain aong with lower back pain. NEG LOC. Brusing noted around eyes. A&0x3 PMHX: bells plasy, rhabdomylosyis gout"	N	-
+"pt told that MRI this morning showed bleeding on brain - MD <<DOCTOR>> sent to ER to be evaluated by Neurology; PMH: HTN, DM, gout"	N	N
+"pt tx from <<HOSPITAL>> for NSTEMI. pt co SOB x 3 days. denies CP. scheduled for heart cath on <<DATE>>. heparin gtt on arrival  pmh: quad bypass '<<DATE>>, gout, htn, CAD."	N	N
+"Pt was sent by <<HOSPITAL>> for a stroke PMH: HTN, gout, arthritis"	N	N
+"pushed down <<DATE>> right hip, left knee,right shoulder pain hx lupus, sickle cell, gout htn, dm"	U	N
+R foot pain x 2 wks. Denies injury. Hx gout. Pt states had a stroke last wk and hosp at <<HOSPITAL>>. No deficits noted. A/ox4 in triage. Non ambulatory d/t pain. Equal grip strength.	Y	N
+"R foot pain/nerve pain, SOB x2 days, PMH bronchitis, R total hip replacement <<DATE>>, DBT, Stroke <<DATE>>, takes plavix, gout"	Y	-
+"R hand pain/swelling x2-3 days ""I think it's my gout"". Also c/o increased swelling to BLE & increased SOB, worse @ night."	Y	Y
+"R hand swelling, noticed it last night around <<TIME>>, when got home from wor, possible gout, could be related to cleaning supplies. no redness. pmh: denies"	Y	-
+"R knee pain x 8 years. pmh: gout, arthritis"	U	N
+R knee pain/swelling x3 days. Denies trauma. Has hx of gout. Took colchicine w/o relief.	Y	Y
+"rehab center for CP radiating to L arm since this AM. upon arrival unable to obtained O2. fingers blue. placed on NRB. Hx of gout, CHF, ESRD, GERD, HLD, cardiac stents, DM. states she was told she needs heart cath"	N	N
+reoccuring gout pain to R wrist/hand x 1 week. HX: gout.   pt denies injury seen here x 1 month ago for same.	Y	Y
+"right ankle pain (poss gout), N/V/V x 1 day. pmh: lung tx"	Y	Y
+"Right ankle pain, SOB, fluid retention, ""irregular heart beat"" PMH- gout, liver cirrhosis, kidney disease, afib, DM type 2, CABG"	U	Y
+"right arm pain x one week, pmh HTN, DM, gout"	Y	N
+"right elbow pain since <<DATE>> hx gout,dialyis"	Y	N
+"right foot and right knee pain, "" I think it is my gout"", denies any injury, reports swelling that comes and goes, ambulatory med hx gout - out of medicine"	Y	Y
+"Right foot/ankle pain x3 days, reports ""feels like gout"""	Y	Y
+"right knee and foot pain, shoulder pain radiating to neck x1 week, out of colchecine, lower back pn PMH: bursitis, gout, htn"	Y	Y
+"right knee pain and swelling x 2 days, on exam knee is visibally swollen/TTP/hot to touch, pt has hardware in knee, fluctuant fluid collections bilat, pmh prostate CA, HIV, gout, GERD, HLD, asthma, COPD, gout"	Y	N
+"Right knee pn and swelling, reduced ROM. PMH: gout"	Y	Y
+"Right knee/leg swelling pain x 3 days from gout. HX: gout, htn, dm"	Y	Y
+"right second toe fracture swelling redness started <<DATE>> denies injury ""about to bust""  PMH gout in elbow, acute kidney injury recently (placed on prednisone)"	U	N
+"right shoulder pain/redness/swellig x 3 days, pmh ESRD, HTN, CVA, gouty and osteoarthritis"	U	U
+"right sided body pain x 8 days, pmh HTN, DM, RA, OA, gout, pancreatitis"	N	-
+"RLQ abd pain and malaise x 3 days, pmh HTN, DM, gout, HLD, kidney transplant <<DATE>>"	N	-
+"RLQ abd pain and no BM since <<DATE>> - Cystoscopy,bilateral retrograde pyelogram, right ureteroscopy, right ureteral stricture biopsy. right ureteral stent - PMH: HIV, diabetes, hypertension, hyperlipidemia, gout and prostate cancer."	N	-
+"Rt. LE gout pain w/ swelling/redness to knee, Was treated at <<HOSPITAL>> x3 days ago. Non-compliant w/ meds. Hx: DM, HTN, Gount"	Y	Y
+"sent by MD to make sure ""not in kidney failure."" nausea, extremely tired, lower back pain x1 week. pmh: gout, HTN, DM, CKD,"	N	N
+"sent for eval of SI. pt denies SI/HI. pt states he will not harm himself if he returns to jail. pmh: depression (does not take meds), gout"	N	-
+"sent from <<HOSPITAL>> for possible infection of L BKA 2 weeks ago; PMH HTN, COPD, CHF, gout, DM, ESRD on dialysis"	N	-
+"sent from boarding home for increase BP and bilateral knee pain for 1 week. Hx of HTN, gout"	Y	Y
+"sent from <<HOSPITAL>> for 6th nerve palsy affecting R. eye-pain, blurry, and double vision x 4 days, severe head ache PMH: HTN, DM, diverticulitis, glaucoma, macular degeneration, gout, arthritis."	N	-
+"sent from <<HOSPITAL>> for shortness of breath, low sats on RA-2L. pt dcd from <<HOSPITAL>> yesterday per EMS.PMH: endocarditis, gout, HTN, DM,"	N	-
+"sent from HF clinic for HR in 140s. states she feels tired with no energy x 1 month pmh HF, hypertension, gout"	N	N
+"sent from PCP for hyperkalemia and worsening kidney failure (also lots of frequent falls) PMH: CKD, kidney transplant (<<DATE>>), HTN, gout, DM, HLD w/ stent placement, glaucoma"	N	N
+"sent from pre-op for a-fib and chest pain, pmh HTN, HLD, OSA, hypothyroid, gout, IBS"	N	N
+"sent from <<HOSPITAL>> for abd pain x1 day, CT this am showed significant free air in abdomen. pt reports N/V, no BM x 1 week. pmhx: CKD, recent fall with BL knee surgery, obesity, gout"	N	N
+"sent from <<HOSPITAL>> for bleeing on the brain, R sided arm swelling since <<DATE>>, wife claims pt has been more confused lately, but A&Ox3 PMHx: DM, HTN, gout,"	N	N
+"sent from <<HOSPITAL>> for fluid overload to be admitted to hospital. pt also c/o SOB, decreased urinary output, med hx CHF, HTN, gout  -- c/o ' feeling tired'"	N	N
+Sent from UC for R knee pain/swelling. HX gout.	Y	N
+"Sent from <<HOSPITAL>> for great toe black and draining pus on bilateral feet.  PMH: stroke, gout"	N	-
+"severe abdominal pain yesterday, N/V/D , dizziness, denies CP, knee pain  pmhx:dm. htn, gout"	N	-
+Severe left ankle pain.  Possible gout flare per pt.  Hx:  Gout	Y	Y
+"SI ""losing my mind, losing everything"" states people are out to kill him. ""i walk on the train tracks a lot"" PMH: gout"	N	-
+"SI. plan to overdose on HTN meds. cocaine/alcohol use. pmx: stroke, HTN, gout, depression"	N	N
+"Sickle cell crisis, pain all over since last night worse this AM. HX Thallasemia, Sickle cell and gout"	N	Y
+"SOB when walking x 1 day.  Hx:  HTN, DM, CVA, CKD, gout, prostate cancer"	N	N
+"SOB x 1 week, audible wheezing in triage, coughing. satting 80's in triage. States was seen in an <<HOSPITAL>> ER and they gave him one breathing tx and dc-ed. PMH: gout, HTN"	N	-
+"SOB x3 days - recently admitted @ <<HOSPITAL>> for the same - PMH:  COPD, sleep apnea, HFpEF, HTN, DM, CKD IV, and gout"	N	N
+"SOB x9 months, BLE pitting edema, ""my heart is getting weak"" - lives at <<HOSPITAL>> - PMH: ICD, cardiomyopathy, CHF, lewy body dementia, PVCs, DM, asthma, sleep apnea, gout, anemia,"	N	N
+"SOB, neck pain, fluid buildup in chest, has unknown blood disorder that's currently being investigated, experiencing night sweats and fevers at home; Hx DM, HTN, CVA, gout"	N	U
+"SOB, productive cough, Weakness, leg pain, knee pain, normally able to  get around with cane, colon cancer with mets, currently on chemo pmhx; colon ca with mets, gout, htn, dm, neuropathy,"	Y	Y
+"SOB/ bilateral hand pain PMH: CHF, gout"	Y	N
+sores on bilat feet x1month. pt states someone stole his socks and shoes. pmh: gout	N	-
+"States has hiccups every day for approx 1 year. States drank approx 3 gallon of water today to try to stop the hiccups. States he thinks now his Na is low. C/o cramping in left arm and leg. C/o chest pressure with dyspnea. PMH: DM2, gout, HTN"	N	-
+"STEMI - CP starting around <<TIME>>, radiating to jaw Hx: DM, gout, HLD"	N	-
+"sternal CP and productive cough w/ fever x 5 days, CP became severe last night and ealry this AM w/ NV and SOB, CP subsided and currently absent. pmh: tripple bypass, gout"	N	-
+"sternal sharp CP x2 weeks, worse with extrenous acitvity - BP:202/118 in triage - PMH: CHF, stage 4 kidney disease, diabetes, HTN, gout"	N	N
+"surgery for MRSA abcess on spine 2 weeks ago at <<HOSPITAL>>, had wound vac - which was removed by follow up appt MD, wound open and pink, told to apply wet to dry dressings at home, numnbess to B legs, med hx asthma, gout, HTN,  pupils pinpoint"	N	-
+swelling and pain to R ankle and foot. denies injury. PMH: gout	Y	Y
+"swelling and pain to R wrist, states only PMH is gout, states current pain feels like previous gout flare up"	Y	Y
+"Swelling and pain to right wrist since <<DATE>>. No known injury. ""I think it's just that gout"" PMH gout, CAD, MI"	Y	Y
+"Swelling to bilateral lower extremeties, open sores on R great toe and anterior surface of ankle belives are a gout flare. HX: HTN, CHF, femoral artery surgery 3 months ago for blockage."	Y	N
+"swelling to L upper backx4-5 months, upper and lower back pain x3 years (MRI <<DATE>>), abcess to L breast, pain to bilateral toes - PMH: HTN, gout"	Y	Y
+"swollen penis X 3 days, painful at times. PMH: DM, HTN, gout,"	N	-
+"syncopal episode @ <<TIME>>. c/o generalized weakness. pmh: a-fibb, htn, hld, gout."	N	N
+"Tick bite to left neck on <<DATE>>, has had headache, confusion, flu symptoms since then. Has red area around bite, was treated for lyme disease in <<DATE>>, was in hospital for 2 weeks. Had IM rocephin, toradol, antibiotic rx, PMH HTN, high cholesterol, gout"	N	-
+"transfer from <<HOSPITAL>>, accepted by <<HOSPITAL>> for epidural hematoma with hx of VP shunt, htn, dementia, chf, cva, gout. PT/INR 32 and 3.22 at <<HOSPITAL>> (only takes asa per NH). slurred speech now but ems states is baseline"	N	N
+"trying to get into <<HOSPITAL>>pt wants to detox off ETOH drink a fith a day, last drink <<TIME>>. denies CP at this time. endorses HA. PMH: HTN, gout"	N	N
+"<<DATE>> pt thought he had a crick in his neck that he feels is getting worse , left neck pain, having trouble turning neck, complains of slight tightness CP per pt SOB, pmhx: HTN, DM, multiple myeloma, gout"	N	N
+"txer <<HOSPITAL>> - SBO, appendicitis - c/o dizziness x2 days, abd pain - PMH: diabetes, gout, CKD (L port for dialysis, supposedly has no started dialysis)"	N	-
+"unwitnessed seizure last night, no dialysis in 3 weeks, crying due to missing wife who is in hospital at <<HOSPITAL>>. pmx: HTN, gout, blind"	N	N
+"upper abd/R side chest pain x1 month, new onset SOB, saw pcp for same. pmh gout. enies cardiac hx."	N	N
+"upper lip swelling x one day, pmh HTN, COPD, blind in OD, gout"	N	N
+"walked outside of a gas station and began being ""shocked"" on his feet. ""There was water and a live wire right when I walked out. Wearing rubber-soled shoes. bilateral feet tingling. pmhx: gout"	N	-
+"was getting prepped for colonoscopy and was sent to ER for eval of irregular HR, pt has no complaints, pmh DM, HLD, ED, gout, pancreatitis, HTN, renal mass"	N	N
+Was seen at <<HOSPITAL>> after an MVC. Pt states they repaired his L femur fx and stitched up right shin. Pt wants to be checked that they did this correctly. PMH: gout	N	N
