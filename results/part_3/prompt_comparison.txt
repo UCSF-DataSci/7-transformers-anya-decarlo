@@ -1,3 +1,6 @@
+zero-shot_accuracy: 0.00
+one-shot_accuracy: 0.36
+few-shot_accuracy: 0.32
 question,strategy,prompt,response,score
 What is the boiling point of nitrogen?,direct,"Question: What is the boiling point of nitrogen?
 Answer:",                                                                                                                               ,0.0
