@@ -1,0 +1,111 @@
+question,strategy,prompt,response,score
+What is the boiling point of nitrogen?,direct,"Question: What is the boiling point of nitrogen?
+Answer:",[Error: Unexpected response format],0.0
+What is the boiling point of nitrogen?,chain_of_thought,"Question: What is the boiling point of nitrogen?
+Let's think about this step by step:
+1. First, let's understand what we're being asked
+2. Then, we'll break down the key components
+3. Finally, we'll provide a comprehensive answer
+
+Answer:",[Error: Unexpected response format],0.0
+What is the boiling point of nitrogen?,one_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the boiling point of nitrogen?
+Answer:",[Error: Unexpected response format],0.0
+What is the boiling point of nitrogen?,few_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the largest planet?
+Answer: The largest planet is Jupiter.
+
+Question: What is the boiling point of nitrogen?
+Answer:",[Error: Unexpected response format],0.0
+Summarize how the immune system works.,direct,"Question: Summarize how the immune system works.
+Answer:",[Error: Unexpected response format],0.0
+Summarize how the immune system works.,chain_of_thought,"Question: Summarize how the immune system works.
+Let's think about this step by step:
+1. First, let's understand what we're being asked
+2. Then, we'll break down the key components
+3. Finally, we'll provide a comprehensive answer
+
+Answer:",[Error: Unexpected response format],0.0
+Summarize how the immune system works.,one_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Summarize how the immune system works.
+Answer:",[Error: Unexpected response format],0.0
+Summarize how the immune system works.,few_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the largest planet?
+Answer: The largest planet is Jupiter.
+
+Question: Summarize how the immune system works.
+Answer:",[Error: Unexpected response format],0.0
+Name 3 symptoms of diabetes.,direct,"Question: Name 3 symptoms of diabetes.
+Answer:",[Error: Unexpected response format],0.0
+Name 3 symptoms of diabetes.,chain_of_thought,"Question: Name 3 symptoms of diabetes.
+Let's think about this step by step:
+1. First, let's understand what we're being asked
+2. Then, we'll break down the key components
+3. Finally, we'll provide a comprehensive answer
+
+Answer:",[Error: Unexpected response format],0.0
+Name 3 symptoms of diabetes.,one_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Name 3 symptoms of diabetes.
+Answer:",[Error: Unexpected response format],0.0
+Name 3 symptoms of diabetes.,few_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the largest planet?
+Answer: The largest planet is Jupiter.
+
+Question: Name 3 symptoms of diabetes.
+Answer:",[Error: Unexpected response format],0.0
+Translate 'I am very tired' to French.,direct,"Question: Translate 'I am very tired' to French.
+Answer:",[Error: Unexpected response format],0.0
+Translate 'I am very tired' to French.,chain_of_thought,"Question: Translate 'I am very tired' to French.
+Let's think about this step by step:
+1. First, let's understand what we're being asked
+2. Then, we'll break down the key components
+3. Finally, we'll provide a comprehensive answer
+
+Answer:",[Error: Unexpected response format],0.0
+Translate 'I am very tired' to French.,one_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Translate 'I am very tired' to French.
+Answer:",[Error: Unexpected response format],0.0
+Translate 'I am very tired' to French.,few_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the largest planet?
+Answer: The largest planet is Jupiter.
+
+Question: Translate 'I am very tired' to French.
+Answer:",[Error: Unexpected response format],0.0
+Give one reason why exercise improves mental health.,direct,"Question: Give one reason why exercise improves mental health.
+Answer:",[Error: Unexpected response format],0.0
+Give one reason why exercise improves mental health.,chain_of_thought,"Question: Give one reason why exercise improves mental health.
+Let's think about this step by step:
+1. First, let's understand what we're being asked
+2. Then, we'll break down the key components
+3. Finally, we'll provide a comprehensive answer
+
+Answer:",[Error: Unexpected response format],0.0
+Give one reason why exercise improves mental health.,one_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Give one reason why exercise improves mental health.
+Answer:",[Error: Unexpected response format],0.0
+Give one reason why exercise improves mental health.,few_shot,"Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the largest planet?
+Answer: The largest planet is Jupiter.
+
+Question: Give one reason why exercise improves mental health.
+Answer:",[Error: Unexpected response format],0.0

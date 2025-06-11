@@ -1,0 +1,77 @@
+# Prompt Engineering Results
+
+## Question: What foods should be avoided by patients with gout?
+
+### Zero Shot response:
+[Error: Unexpected response format]
+
+### One Shot response:
+[Error: Unexpected response format]
+
+### Few Shot response:
+[Error: Unexpected response format]
+
+--------------------------------------------------
+
+## Question: What medications are commonly prescribed for gout?
+
+### Zero Shot response:
+[Error: Unexpected response format]
+
+### One Shot response:
+[Error: Unexpected response format]
+
+### Few Shot response:
+[Error: Unexpected response format]
+
+--------------------------------------------------
+
+## Question: How can gout flares be prevented?
+
+### Zero Shot response:
+[Error: Unexpected response format]
+
+### One Shot response:
+[Error: Unexpected response format]
+
+### Few Shot response:
+[Error: Unexpected response format]
+
+--------------------------------------------------
+
+## Question: Is gout related to diet?
+
+### Zero Shot response:
+[Error: Unexpected response format]
+
+### One Shot response:
+[Error: Unexpected response format]
+
+### Few Shot response:
+[Error: Unexpected response format]
+
+--------------------------------------------------
+
+## Question: Can gout be cured permanently?
+
+### Zero Shot response:
+[Error: Unexpected response format]
+
+### One Shot response:
+[Error: Unexpected response format]
+
+### Few Shot response:
+[Error: Unexpected response format]
+
+--------------------------------------------------
+
+## Scores
+
+,zero_shot,one_shot,few_shot
+what_foods_should_be_avoided_by_patients_with_gout?,0.0,0.0,0.0
+what_medications_are_commonly_prescribed_for_gout?,0.0,0.0,0.0
+how_can_gout_flares_be_prevented?,0.0,0.0,0.0
+is_gout_related_to_diet?,0.0,0.0,0.0
+can_gout_be_cured_permanently?,0.0,0.0,0.0
+average,0.0,0.0,0.0
+best_method,zero_shot,,
