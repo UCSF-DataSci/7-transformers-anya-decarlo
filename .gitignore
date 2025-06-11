@@ -50,8 +50,13 @@ models/*.h5
 models/*.pth
 !models/.gitkeep
 
+# Data files
+data/gout/*
+data/synthetic_mentions/*
 data/processed/*
 !data/processed/.gitkeep
+!data/gout/.gitkeep
+!data/synthetic_mentions/.gitkeep
 
 results/part_1/*
 results/part_2/*
